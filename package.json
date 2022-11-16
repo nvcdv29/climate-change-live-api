@@ -4,13 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-
-  "scripts": {
-     "start": "nodemon Server.js"
- }
   "author": "ania kubow",
   "license": "ISC",
   "dependencies": {
